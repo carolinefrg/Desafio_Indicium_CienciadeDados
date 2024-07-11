@@ -1,4 +1,4 @@
-#Projeto desenvolvido para o desafio de Ciência de Dados do Programa Lighthouse da Indicium
+Projeto desenvolvido para o desafio de Ciência de Dados do Programa Lighthouse da Indicium
 Este projeto foi desenvolvido utilizando o Google Colab.
 
 Pré-Requisitos:
