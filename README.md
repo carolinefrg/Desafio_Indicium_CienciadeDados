@@ -11,7 +11,7 @@ Instalação e configuração:
 2) Executar o notebook
 - Executar todas as células do arquivo 'movies.ipynb'.
 3) Salvar os modelos
-- Após executar as células, vá ao diretório atual do Colab, os arquivos do modelos salvos estarão lá.
+- Após executar as células, vá ao diretório atual do Colab, os arquivos em .pkl dos modelos salvos estarão lá.
 4) Executar os modelos
 - Sempre que uma nova sessão ocorrer no Colab, os modelos serão carregados e poderão ser utilizados. 
 - Para prever a nota do IMDB de algum filme específico, vá até a célula 59 e mude os valores das
