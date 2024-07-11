@@ -6,7 +6,7 @@ Conta Google para acessar ao Colab e armazenar os notebooks.
 
 Instalação e configuração:
 1) Abrir o notebook no Google Colab
--  Fazer login na sua conta Google.
+-  Faça login na sua conta Google.
 - Abrir o notebook 'movies.ipynb'.
 2) Executar o notebook
 - Executar todas as células do arquivo 'movies.ipynb'.
