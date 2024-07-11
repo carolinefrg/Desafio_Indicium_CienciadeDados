@@ -15,5 +15,5 @@ Instalação e configuração:
 4) Executar os modelos
 - Sempre que uma nova sessão ocorrer no Colab, os modelos serão carregados e poderão ser utilizados. 
 - Para prever a nota do IMDB de algum filme específico, vá até a célula 59 e mude os valores das
-features 'Released_Year','Runtime','Meta_score','No_of_Votes' e 'Gross' para os valores correspondentes
+features 'Released_Year', 'Runtime', 'Meta_score', 'No_of_Votes' e 'Gross' para os valores correspondentes
 ao filme e que estão listados na tabela 'desafio_indicium_imdb.csv'.
